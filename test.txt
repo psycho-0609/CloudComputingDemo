@@ -3,4 +3,8 @@ Hello World
 update
 =======
 update
+<<<<<<< HEAD
 >>>>>>> dsdsds
+=======
+>>>>>> conflict
+>>>>>>> 355ce5b2cf74260f3676a446d28e71e3e61f3afe
